@@ -1,1 +1,1 @@
-# fundamenros-de-proramacion-
+# fundamenros-de-programación-
